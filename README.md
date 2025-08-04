@@ -19,7 +19,7 @@ The goal is to evaluate *ad spend efficiency, revenue generation, and ROI (Retur
 ##  📁 Files in repository:  
 - [Pepco.txt](https://github.com/SaiAryan07/FUTURE_DS_02/blob/main/PEPCO.txt) 
 - [Future_DS_02 → Power BI dashboard file](https://github.com/SaiAryan07/FUTURE_DS_02/blob/main/FUTURE_DS_02.pbix)
-  ## ⚙ Tools & Technologies
+## ⚙ Tools & Technologies
 - *Power BI* → Dashboard creation & visualization  
 - *DAX* → ROI and metric calculations  
 - *Excel/CSV* → Data source  
@@ -28,7 +28,7 @@ The goal is to evaluate *ad spend efficiency, revenue generation, and ROI (Retur
 - *Total Spend* = Sum of all campaign investments  
 - *Total Revenue* = Aggregated campaign revenue  
 ## 👤 Author
-*Sai Aryan*  
+*Sai Aryan Meesala*  
 🔗 [GitHub Profile](https://github.com/SaiAryan07)  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/sai-aryan-meesala-0545602b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-⭐ If you found this project insightful, don’t forget to star the repo!
+
